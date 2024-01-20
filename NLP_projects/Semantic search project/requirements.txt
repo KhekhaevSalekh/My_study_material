@@ -1,0 +1,8 @@
+openai==0.27.2
+sentence_transformers
+pinecone-client==2.0.13
+dotenv
+matplotlib
+PyPDF2==3.0.1
+tqdm
+
